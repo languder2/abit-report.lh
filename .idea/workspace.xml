@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="562f0a38-34ee-4788-a2cc-90bcdcb9d050" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/public_html/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/public_html/lib/PhpSpreadsheet" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\work\OSPanel\modules\php\PHP_8.1\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/public_html/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/public_html/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/public_html/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/public_html/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2iDtMxkn6LZJuyZk9HFk8O9BFhs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/OSPanel/domains/abit.lh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562f0a38-34ee-4788-a2cc-90bcdcb9d050" name="Changes" comment="" />
+      <created>1719036932083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719036932083</updated>
+      <workItem from="1719036933240" duration="286000" />
+      <workItem from="1719037248233" duration="8105000" />
+      <workItem from="1719286722620" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
